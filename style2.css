@@ -6,6 +6,7 @@
 .cabecalho{
     background-color: #424e61;
     display: flex;
+    justify-content: space-around;
 }
 
 
@@ -13,6 +14,11 @@
 .lista-cria{
     color: aquamarine;
     font-size: 24px;
+
+
+}
+.lista-de-tetris{
+    display: inline-block;
 }
 
 
