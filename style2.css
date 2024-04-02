@@ -4,7 +4,7 @@
 }
 
 .cabecalho{
-    background-color: #424e61;
+    background-image:linear-gradient(black,grey);
     display: flex;
     justify-content: space-around;
 }
@@ -20,5 +20,17 @@
 .lista-de-tetris{
     display: inline-block;
 }
+.sas{
+    background-image: linear-gradient(grey,white);
+    height: 500px;
+    pedding:100px;
+    color: white;
 
+}
+.ses{
+     padding: 15px;
+}
+.sis{
+    padding: 15px;
+}
 
